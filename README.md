@@ -11,6 +11,9 @@ In 2022, I began studying C# and the Unity engine on my own. In July 2023, I com
 
 ## **Certificates** 
 [Certificate of completion of the Netology course](https://github.com/itroy32tq/itroy32tq/blob/main/%D0%A1%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82.png)
+
+### **Curriculum Vitae**
+[CV(ru)](https://github.com/itroy32tq/itroy32tq/blob/main/CV_Last.pdf)
   
 
 
