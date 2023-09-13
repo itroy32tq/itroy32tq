@@ -37,7 +37,8 @@ In 2022, I began studying C# and the Unity engine on my own. In July 2023, I com
   </div>
   
 ### **Curriculum Vitae**
-[CV(ru)](https://github.com/itroy32tq/itroy32tq/blob/main/CV_Last.pdf)
+[CV(Unity Developer)](https://github.com/itroy32tq/itroy32tq/blob/main/CV%20Unity%20Developer.pdf)
+[CV(Technical Designer)](https://github.com/itroy32tq/itroy32tq/blob/main/CV_Last.pdf)
   
 
 
